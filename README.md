@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my personal portfolio – a showcase of my skills, projects, and journey as a full-stack developer. This space serves as a testament to my passion for technology and my dedication to learn and fix some bugs.
 
-## About Me
+## About Me:
 I am an Operational Lead with a strong background in leadership, web development and sofware engineer. 
 
 ## Key Skills:
