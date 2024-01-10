@@ -5,8 +5,8 @@ Welcome to my personal portfolio – a showcase of my skills, projects, and jour
 I am an Operational Lead with a strong background in leadership, web development and sofware engineer. 
 
 ## Key Skills:
-Skill 1: Leadership, communication and proative
-Skill 2: HTML3, CSS5, JS, Microsoft Excel & Power BI 
+Skill 1: Leadership, communication and proative <br/>
+Skill 2: HTML3, CSS5, JS, Microsoft Excel & Power BI <br/>
 Skill 3: SQL / MySQL.
 
 ## How to Use This Portfolio:
