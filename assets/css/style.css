@@ -3,7 +3,7 @@
 @import url("http://fonts.cdnfonts.com/css/roboto");
 
 :root {
-  --main-bg-color: #7f15db;
+  --main-bg-color: #008073;
 }
 
 /* ===== Scrollbar ===== */
@@ -218,16 +218,69 @@ header {
 }
 
 #project {
-  background-color: #050505;
+  background-color: #dbdbdb;
+  color: white;
+  font-family: roboto;
 }
+
+.project-bg__title{
+  background-color: #008073 ;
+
+}
+
+.project__title{
+  font-size: 2.5rem;
+  font-weight: 100;
+  padding:  30px 0 30px 100px;
+}
+
+.project-menu{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+
+}
+
+.project-menu__card{
+  box-shadow: 1px 4px 9px -1px rgba(0,0,0,0.63);
+  -webkit-box-shadow: 1px 4px 9px -1px rgba(0,0,0,0.63);
+  -moz-box-shadow: 1px 4px 9px -1px rgba(0,0,0,0.63);
+  margin-top: 100px;
+  padding: 50px;
+  text-align:start;
+  color: #2b2b2b;
+  background-color: #ffffff ;
+  width: 70%;
+}
+
+.project-menu__card span::after {
+  content: "";
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid #c1c1c1;
+  margin-top: 5px; /* Ajuste o valor conforme necessário */
+}
+
+.project-menu__items{
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+/* Footer */
 
 .foo-group{
   font-family:'Segoe UI';
   color: #edebeb;
-  background-color: #18012b;
+  background-color: var(--main-bg-color) ;
   padding: 24px;
   text-align: center;
   justify-content: center;
   align-items: center;
   font-size: 24px;
 }
+
